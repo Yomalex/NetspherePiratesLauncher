@@ -10,7 +10,7 @@ Use .Net framework 4.x
 Option file of launcher is patcher_s4.option.s4
 this file has FTP information and others options like News URL and Register URL
 
-patcher_s4.option.s4 file:
+patcher_s4.option.s4 file, if this file don't exist is created by launcher with default values:
 ``````
 <?xml version="1.0" encoding="utf-8"?>
 <options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
