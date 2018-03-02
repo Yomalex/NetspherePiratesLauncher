@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Launcher")]
-[assembly: AssemblyDescription("S4 League Launcher")]
+[assembly: AssemblyTitle("NetspherePiratesLauncher")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("The DarkAngel's")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("NetspherePiratesLauncher")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
