@@ -1,9 +1,0 @@
-C:\Users\el_ya\source\repos\NetspherePiratesLauncher\NetspherePiratesLauncher\bin\Release\patcher_s4.exe.config
-C:\Users\el_ya\source\repos\NetspherePiratesLauncher\NetspherePiratesLauncher\bin\Release\patcher_s4.exe
-C:\Users\el_ya\source\repos\NetspherePiratesLauncher\NetspherePiratesLauncher\bin\Release\patcher_s4.pdb
-C:\Users\el_ya\source\repos\NetspherePiratesLauncher\NetspherePiratesLauncher\obj\Release\NetspherePiratesLauncher.Patcher_s4.resources
-C:\Users\el_ya\source\repos\NetspherePiratesLauncher\NetspherePiratesLauncher\obj\Release\NetspherePiratesLauncher.Properties.Resources.resources
-C:\Users\el_ya\source\repos\NetspherePiratesLauncher\NetspherePiratesLauncher\obj\Release\NetspherePiratesLauncher.csproj.GenerateResource.Cache
-C:\Users\el_ya\source\repos\NetspherePiratesLauncher\NetspherePiratesLauncher\obj\Release\NetspherePiratesLauncher.csproj.CoreCompileInputs.cache
-C:\Users\el_ya\source\repos\NetspherePiratesLauncher\NetspherePiratesLauncher\obj\Release\patcher_s4.exe
-C:\Users\el_ya\source\repos\NetspherePiratesLauncher\NetspherePiratesLauncher\obj\Release\patcher_s4.pdb
