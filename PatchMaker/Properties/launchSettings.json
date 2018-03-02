@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PatchMaker": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\S4 TDA\""
+    }
+  }
+}
