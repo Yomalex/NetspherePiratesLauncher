@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lang>eng</Lang>
+  <Version>0</Version>
+  <AuthIP>127.0.0.1</AuthIP>
+  <Register>http://localhost/Register</Register>
+  <News>http://localhost/News</News>
+  <FTP>
+    <URL>ftp://localhost/</URL>
+    <User />
+    <Password />
+  </FTP>
+</options>

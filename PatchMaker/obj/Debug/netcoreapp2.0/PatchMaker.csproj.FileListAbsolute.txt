@@ -1,0 +1,11 @@
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\bin\Debug\netcoreapp2.0\PatchMaker.deps.json
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\bin\Debug\netcoreapp2.0\PatchMaker.runtimeconfig.json
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\bin\Debug\netcoreapp2.0\PatchMaker.runtimeconfig.dev.json
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\bin\Debug\netcoreapp2.0\PatchMaker.dll
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\bin\Debug\netcoreapp2.0\PatchMaker.pdb
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\obj\Debug\netcoreapp2.0\PatchMaker.csprojResolveAssemblyReference.cache
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\obj\Debug\netcoreapp2.0\PatchMaker.csproj.CoreCompileInputs.cache
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\obj\Debug\netcoreapp2.0\PatchMaker.AssemblyInfoInputs.cache
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\obj\Debug\netcoreapp2.0\PatchMaker.AssemblyInfo.cs
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\obj\Debug\netcoreapp2.0\PatchMaker.dll
+C:\Users\el_ya\source\repos\NetspherePiratesLauncher\PatchMaker\obj\Debug\netcoreapp2.0\PatchMaker.pdb
